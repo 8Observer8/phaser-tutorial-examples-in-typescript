@@ -11,7 +11,7 @@ var __extends = (this && this.__extends) || (function () {
         d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
     };
 })();
-Object.defineProperty(exports, "__esModule", { value: true });
+exports.__esModule = true;
 var Boot = /** @class */ (function (_super) {
     __extends(Boot, _super);
     function Boot() {
@@ -40,7 +40,7 @@ var __extends = (this && this.__extends) || (function () {
         d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
     };
 })();
-Object.defineProperty(exports, "__esModule", { value: true });
+exports.__esModule = true;
 var Boot_1 = require("./Boot");
 var Level_1 = require("./Level");
 var Game = /** @class */ (function (_super) {
@@ -68,7 +68,7 @@ var __extends = (this && this.__extends) || (function () {
         d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
     };
 })();
-Object.defineProperty(exports, "__esModule", { value: true });
+exports.__esModule = true;
 var Level = /** @class */ (function (_super) {
     __extends(Level, _super);
     function Level() {
@@ -126,7 +126,7 @@ var Level = /** @class */ (function (_super) {
 exports.Level = Level;
 },{}],4:[function(require,module,exports){
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
+exports.__esModule = true;
 var Game_1 = require("./Game");
 var Program = /** @class */ (function () {
     function Program() {
