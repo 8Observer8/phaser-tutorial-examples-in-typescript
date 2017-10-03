@@ -19,6 +19,9 @@ http://www.photonstorm.com/phaser/advanced-phaser-and-typescript-projects
 - MakingYourFirstPhaserGame
 https://8observer8.github.io/Phaser/making-your-first-phaser-game/
 https://phaser.io/tutorials/making-your-first-phaser-game/index
+- physics-editor-p2
+https://8observer8.github.io/Phaser/physics-editor-p2/
+http://www.gamefromscratch.com/post/2014/11/27/Adventures-in-Phaser-with-TypeScript-Physics-using-P2-Physics-Engine.aspx
 - SpaceExploration
 https://8observer8.github.io/Phaser/space-exploration/
 http://www.gamedevacademy.org/html5-phaser-tutorial-spacehipster-a-space-exploration-game/
