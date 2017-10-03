@@ -11,7 +11,7 @@ gulp.task("default", function ()
     return browserify({
         basedir: '.',
         debug: true,
-        entries: ['src/Game.ts'],
+        entries: ['src/Program.ts'],
         cache: {},
         packageCache: {}
     })
@@ -20,7 +20,7 @@ gulp.task("default", function ()
         .pipe(source('bundle.js'))
         .pipe(buffer())
         .pipe(sourcemaps.init({ loadMaps: true }))
-        .pipe(uglify())
+        //.pipe(uglify())
         .pipe(sourcemaps.write('./'))
         .pipe(gulp.dest("public"));
 });
